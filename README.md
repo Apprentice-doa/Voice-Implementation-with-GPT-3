@@ -6,4 +6,6 @@ This Repository is created to help CPE 500 Level Students with implementing Voic
 + SpeechRecognition
 + pyttsx3
 
+### Use streamlit run app.py to run your code on a local server. 
+
 ## N.B: This repository will be closed by 12am Saturday Morning.
